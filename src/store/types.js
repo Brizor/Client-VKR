@@ -1,0 +1,4 @@
+const LOAD_USER = 'LOAD_USER';
+const LOAD_ROOM = 'LOAD_ROOM';
+
+export {LOAD_USER,LOAD_ROOM}
